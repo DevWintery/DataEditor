@@ -2,12 +2,10 @@
 @import "tailwindcss";
 
 body {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  margin: 0;
+  padding: 0;
   overflow: hidden;
-  background-image: url('./wavy-lines.svg');
-  background-size: cover;
+  background-color: white;
   user-select: none;
 }
 
